@@ -7,10 +7,10 @@
             "born": 1815,
             "died": 1852,
             "bio-pl": "Brytyjska matematyczka i poetka, autorka pierwszego algorytmu do wykonania na maszynie. Wyróżniało ją jej niezwykłe podejście do nauki, którą ściśle wiązała z poezją. Uważała, że intuicja i wyobraźnia są niezbędne do matematyki.",
-            "bio-eng": "",
+            "bio-eng": "British mathematician and poet, the author of the first algorithm to be carried out by a machine.",
             "motivational-pl": "Jeśli słyszysz, że informatyka to męski świat, pamiętaj, że pierwszy programista w historii miał na imię Ada i był kobietą.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "If someone says that IT is a man’s world, remember that the first programmer happened to be a woman named Ada.",
+            "pictureUrl": ""
         },
         {
             "id": 2,
@@ -19,10 +19,10 @@
             "born": 1878,
             "died": 1968,
             "bio-pl": "Austriacka fizyczka jądrowa. Lise miała stale pod górkę: sama przygotowała się do matury, z powodu antysemityzmu straciła posadę na uniwersytecie, a z powodu uprzedzeń wobec kobiet nagrodę Nobla za jej zasługi przyznano jej koledze. Została jednak pierwszą profesorką fizyki w Niemczech, a jej nazwiskiem nazwano pierwiastek.",
-            "bio-eng": "",
+            "bio-eng": "Austrian nuclear physicist, first female professor in physics in Germany. She prepared herself on her own for the A-levels as she was not allowed to study. Because of her Jewish descent, she lost her university job during the Nazi rule. Due to a bias, the Noble Prize committee awarded the prize for her achievements to her male coworker. She had a chemical element named after her posthumously.",
             "motivational-pl": "Życie daje w kość. Przyjmij to na klatę, przyj naprzód i rób swoje - tak jak Lise!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Life gets hard sometimes. Keep pushing forward to achieve what you set out to do  – just like Lise!",
+            "pictureUrl": ""
         },
         {
             "id": 3,
@@ -31,10 +31,10 @@
             "born": 1867,
             "died": 1932,
             "bio-pl": "Krakowska emancypantka. Założyła Czytelnię dla kobiet. Dzięki jej działaniom Uniwersytet Jagielloński przyjął pierwsze kobiety na studia, a dziewczynom pozwolono zdawać maturę.",
-            "bio-eng": "",
+            "bio-eng": "Feminist activist from Cracow who established reading rooms and libraries for women and youth. Thanks to her, Jagiellonian University accepted the first female students.",
             "motivational-pl": "Powtórz głośno za Kazimierą: 'Żyję - bo chcę żyć, a nigdy, bo muszę i żyję tak, jak chcę, a nigdy tak, jak muszę!'",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Repeat after Kazimiera: ‘I live because I want to live and not because I have to. I live as I want and never as I have to’.",
+            "pictureUrl": ""
         },
         {
             "id": 4,
@@ -43,10 +43,10 @@
             "born": 1870,
             "died": 1952,
             "bio-pl": "Włoska lekarka i pedagożka. Maria była pierwszą kobietą we Włoszech z tytułem doktora nauk medycznych. W swojej pracy pedagogicznej zachęcała dzieci do podejmowania własnych decyzji.",
-            "bio-eng": "",
+            "bio-eng": "Italian doctor and pedagogue; she was the first woman to receive a PhD in Medicine in Italy; in her work, she encouraged children to make their own decisions.",
             "motivational-pl": "Każda osoba jest wolna i sama o sobie decyduje. Ty też!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Each person is free and decides for themselves. And so are you!",
+            "pictureUrl": ""
         },
         {
             "id": 5,
@@ -54,11 +54,11 @@
             "STEM": true,
             "born": 1647,
             "died": 1717,
-            "bio-pl": "Niemiecka przyrodniczka i malarka; pierwsza entomolożka. Mimo że insekty były powszechnie uważane za okropne i paskudne, to właśnie im Maria poświęciła uwagę. W swoim życiu opisała jako pierwsza cykl życia 185 insektów i wyjaśniła, jak larwa przepoczwarza się w motyla",
-            "bio-eng": "",
+            "bio-pl": "Niemiecka przyrodniczka i malarka; pierwsza entomolożka. Mimo że insekty były powszechnie uważane za okropne i paskudne, to właśnie im Maria poświęciła uwagę. W swoim życiu opisała jako pierwsza cykl życia 185 insektów i wyjaśniła, jak larwa przepoczwarza się w motyla.",
+            "bio-eng": "Don’t feel weird about your passions. The world will remember you for doing what you love!",
             "motivational-pl": "Nie wstydź się swoich pasji, nawet tych najdziwniejszych. Jeśli będziesz robić to, co kochasz, świat Cię zapamięta!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "German naturalist and painter. She was the first female entomologist and specialized in butterfly lifecycle.",
+            "pictureUrl": ""
         },
         {
             "id": 6,
@@ -67,10 +67,10 @@
             "born": 1859,
             "died": 1921,
             "bio-pl": "Założycielka Związku Równouprawnienia Kobiet Polskich, nazywana hetmanką i sterniczką. Niezmordowanie walczyła o prawa Polek. Założyła pierwsze pismo o prawach kobiet zatytułowane „STER”.",
-            "bio-eng": "",
+            "bio-eng": "Polish feminist and publisher; known as ‘the first, tireless advocate for full uncompromised women’s rights in Poland’.",
             "motivational-pl": "Nie daj sobie wmówić, że się do czegoś nie nadajesz, bo jesteś dziewczyną! Walcz o więcej, tak jak Paulina!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Don’t ever let them tell you that you can’t do something because you’re a girl. Fight for more like Paulina!",
+            "pictureUrl": ""
         },
         {
             "id": 7,
@@ -79,10 +79,10 @@
             "born": 1897,
             "died": 1939,
             "bio-pl": "Amerykańska pilotka, dziennikarka i poetka, a także działaczka prokobieca. Amelia jako pierwsza kobieta i druga osoba na świecie przeleciała samotnie nad Oceanem Atlantyckim. Od dziecka wiedziała, że chce latać samolotem.",
-            "bio-eng": "",
+            "bio-eng": "American pilot, journalist, poet, as well as a women's rights advocate. She was the first women and the second person in the world to fly solo over the Atlantic Ocean. She knew from the early age that she wanted to be a pilot.",
             "motivational-pl": "Wiele małych kroczków prowadzi do wielkich marzeń. Najważniejsze to po prostu zacząć działać!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "A lot of small steps lead to achieving greatest dreams. Just start taking them!",
+            "pictureUrl": ""
         },
         {
             "id": 8,
@@ -91,10 +91,10 @@
             "born": 350,
             "died": 415,
             "bio-pl": "Grecka astronomka, fizyczka i filozofka. Hypatia prowadziła szkołę w Aleksandrii, gdzie nauczała filozofii i astronomii. Wynalazła astrolabium i aerometr. Jej imieniem nazwano planetoidę i planetę krążącą wokół gwiazdy jota Draconis.",
-            "bio-eng": "",
+            "bio-eng": "Greek astronomer, physicist and philosopher, she ran a school in Alexandria (today Egypt) where she taught philosophy and astronomy. She invented astrolabe and aerometer. She had a planetoid and a planet named after herself. Supposedly, she was never interested in romantic relationships.",
             "motivational-pl": "Niech to, co ziemskie nigdy nie ogranicza Ciebie ani Twojej wyobraźni. Cały wszechświat przed Tobą!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Your romantic life does not define you as a woman or as a person.",
+            "pictureUrl": ""
         },
         {
             "id": 9,
@@ -103,10 +103,10 @@
             "born": 1918,
             "died": 1999,
             "bio-pl": "Amerykańska farmakolożka i farmaceutka. Wraz z G. H. Hitchingsem  otrzymała Nagrodę Nobla za wynalezienie leków na białaczkę, gościec, malarię i wirusy grupy Herpes. Uważała, że w życiu należy robić to, co się lubi.",
-            "bio-eng": "",
+            "bio-eng": "American pharmacologist and pharmacist. Along with G.H. Hitchins, she was awarded the Nobel Prize for discovering medicine for leukemia, rheumatism, malaria and herpes group viruses. Her discoveries lead to the development of the AIDS drug.",
             "motivational-pl": "Po każdej zaleczonej opryszczce pomyśl, że za tym sukcesem stoi też Gertruda.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Each cold blister which healed should remind you of Gertrude’s amazing achievements in pharmacology.",
+            "pictureUrl": ""
         },
         {
             "id": 11,
@@ -115,10 +115,10 @@
             "born": 1934,
             "died": null,
             "bio-pl": "Amerykańska feministka, pisarka i dziennikarka. Gloria jest jedną z najważniejszych współczesnych działaczek feministycznych. Oprócz książek, napisała mnóstwo świetnych artykułów, założyła feministyczne czasopismo Ms. Magazine i zrealizowała serię filmów dokumentalnych o problemach, z jakimi mierzą się kobiety na świecie.",
-            "bio-eng": "",
+            "bio-eng": "American feminist, writer and journalist. One of the most important modern feminists who started numerous feminist organizations and publications worldwide.",
             "motivational-pl": "Gdy wątpisz w siłę dziewczyn - poczytaj teksty Glorii.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "If you ever need some girl power, read Gloria’s essays.",
+            "pictureUrl": ""
         },
         {
             "id": 12,
@@ -127,10 +127,10 @@
             "born": 1917,
             "died": 1984,
             "bio-pl": "Indyjska polityczka i premierka. Mimo nieszczęśliwego i samotnego dzieciństwa, Indira ukończyła liceum, a potem studiowała na Oxfordzie. W plebiscycie BBC z 1999 roku Indira została uznana za Kobietę Tysiąclecia.",
-            "bio-eng": "",
+            "bio-eng": "Indian politician and Prime Minister. In 1999, she was chosen as the Greatest Women of the Millennium in a BBC popular vote.",
             "motivational-pl": "Kobiety nie nadają się do polityki? Poznajcie najważniejszego z indyjskich premierów!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Women don’t make great politicians? Meet the most important of the Indian Prime Ministers!",
+            "pictureUrl": ""
         },
         {
             "id": 13,
@@ -139,10 +139,10 @@
             "born": 1910,
             "died": 1994,
             "bio-pl": "Angielska biochemiczka, krystalografka. Mimo artretyzmu, Dorothy kontynuowała karierę zawodową i w wieku 54 lat otrzymała Nagrodę Nobla w dziedzinie chemii za wyznaczenie struktury penicyliny i witaminy B12",
-            "bio-eng": "",
+            "bio-eng": "English biochemist and crystallographer. She received the Noble Prize for developing protein crystallography after having described the structure of insulin and vitamin B12. At 24, she was diagnosed with rheumatoid arthritis and challenged the colleagues to make her work environment accessible.",
             "motivational-pl": "Dorothy nie dała sobie wmówić, że choroba to koniec jej kariery w laboratorium. Ty także nie poddawaj się, dasz radę!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Dorothy just didn’t accept it that her disease meant the end of her lab career -- she brought her wheelchair into her lab. 30 years later she won the Noble Prize.",
+            "pictureUrl": ""
         },
         {
             "id": 14,
@@ -151,10 +151,10 @@
             "born": 1910,
             "died": 1994,
             "bio-pl": "Amerykańska głuchoniewidoma pisarka, pedagożka i działaczka społeczna. Helen mówiła w pięciu językach, napisała dwanaście książek i odwiedziła trzydzieści pięć krajów. Działała także na rzecz równouprawnienia kobiet.",
-            "bio-eng": "",
+            "bio-eng": "Learning a few languages feels impossible? You can do it!",
             "motivational-pl": "Myślisz, że opanowanie kilku języków jest niemożliwe? Spójrz na Helen!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "American deaf-blind author, pedagogue and political activist. She spoke 5 languages, wrote 12 books and visited 35 countries.",
+            "pictureUrl": ""
         },
         {
             "id": 15,
@@ -163,10 +163,10 @@
             "born": 1971,
             "died": 2016,
             "bio-pl": "Honduraska działaczka ekologiczna. Pomimo wielu gróźb, Berta niestrudzenie broniła spraw rdzennych mieszkańców Hondurasu i prowadziła kampanię przeciw budowie zapory wodnej Agua Zarca, której wybudowanie spowodowałoby zalanie pobliskich lasów i wiosek.",
-            "bio-eng": "",
+            "bio-eng": "Honduran environmental activist. She defended the rights of the native peoples of Honduras. Despite numerous life threats, she ran a campaign against a water dam, which would destroy local forests and villages.",
             "motivational-pl": "Bądź nieustraszona!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Be invincible!",
+            "pictureUrl": ""
         },
         {
             "id": 16,
@@ -175,10 +175,10 @@
             "born": 1844,
             "died": 1923,
             "bio-pl": "Francuska aktorka filmowa i teatralna. Sarah jest zwykle opisywana jako “największa aktorka, jaką znał świat”. Z powodu gangreny amputowano jej prawą nogę, co jednak nie przeszkodziło jej w zagraniu świetnych ról w kolejnych czterech filmach.",
-            "bio-eng": "",
+            "bio-eng": "French film and theatre actress, remembered as „the greatest actress known to the world”. As a result of gangrene, she lost her right leg, which did not prevent her from playing in yet four movies more.",
             "motivational-pl": "Możesz być aktorką i producentką, Hamletem, Kleopatrą, czy Marią Magdaleną - Twoja płeć Cię nie ogranicza.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "You can be an actress and a producer, Hamlet, Cleopatra or Mary Magdalene – your gender or sex does not limit you.",
+            "pictureUrl": ""
         },
         {
             "id": 17,
@@ -187,22 +187,10 @@
             "born": -1503,
             "died": -1482,
             "bio-pl": "Pierwsza kobieta na tronie Egiptu. Hatszepsut uchodzi za najpotężniejszego władcę starożytnego Egiptu. Jej panowanie było najdłuższym i najbardziej pokojowym w historii tego kraju.",
-            "bio-eng": "",
+            "bio-eng": "The first female pharaoh; her rule was the longest and the most peaceful making her the greatest pharaoh of Ancient Egypt.",
             "motivational-pl": "To, że żadna kobieta przed Tobą czegoś nie robiła, nie znaczy, że Ty nie możesz być pierwsza!",
-            "motivational-eng": "",
-            "pictureUrl": "",
-        },
-        {
-            "id": 17,
-            "name": "Hatshepsut",
-            "STEM": false,
-            "born": -1503,
-            "died": -1482,
-            "bio-pl": "Pierwsza kobieta na tronie Egiptu. Hatszepsut uchodzi za najpotężniejszego władcę starożytnego Egiptu. Jej panowanie było najdłuższym i najbardziej pokojowym w historii tego kraju.",
-            "bio-eng": "",
-            "motivational-pl": "To, że żadna kobieta przed Tobą czegoś nie robiła, nie znaczy, że Ty nie możesz być pierwsza!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "The fact that no woman has ever done a given thing doesn’t mean you can’t do it first!",
+            "pictureUrl": ""
         },
         {
             "id": 18,
@@ -211,10 +199,10 @@
             "born": 1926,
             "died": 1973,
             "bio-pl": "Polska rzeźbiarka żydowskiego pochodzenia. W trakcie II wojny światowej Alina była więźniarką obozów koncentracyjnych. Później. w swojej sztuce poruszała tematykę ciała, cielesności i ulotności życia. ",
-            "bio-eng": "",
+            "bio-eng": "Polish sculptor of Jewish descent. In her art, she refers to body and the transience of life. She survived concentration camps during World War 2.",
             "motivational-pl": "Poszukaj inspiracji w swoich uczuciach, emocjach i doświadczeniach. To one Ciebie budują.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Make your wounds the material from which you’ll build your success.",
+            "pictureUrl": ""
         },
         {
             "id": 19,
@@ -223,10 +211,10 @@
             "born": 1914,
             "died": 2000,
             "bio-pl": "Hollywoodzka gwiazda filmowa i wynalazczyni. Od dziecka chciała być aktorką i jej kariera była godna podziwu. W wolnych chwilach zajmowała się wynalazkami, na przykład wynalazła tabletkę musującą. Poruszona okrucieństwami wojny, wynalazła urządzenie, dzięki któremu później stworzono m.in. technologie Wi-Fi i Bluetooth.",
-            "bio-eng": "",
+            "bio-eng": "Hollywood film star and inventor. One of her inventions enabled the creation of Bluetooth and Wi-Fi.",
             "motivational-pl": "Zasługujesz na to, żeby być traktowaną poważnie, bez względu na to, jak wyglądasz.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Being pretty does not exclude being smart – and no one should be surprised.",
+            "pictureUrl": ""
         },
         {
             "id": 20,
@@ -235,10 +223,10 @@
             "born": 1920,
             "died": 1958,
             "bio-pl": "Brytyjska biofizyczka i specjalistka w dziedzinie krystalografii promieniami X. Rosalind była współodkrywczynią podwójnej helisy DNA, za co planowano przyznać jej Nagrodę Nobla. Zmarła przedwcześnie na raka jajników.",
-            "bio-eng": "",
+            "bio-eng": "British biophysicist and X-ray crystallographer who co-discovered the molecular structure of the DNA. She died from cervical cancer – otherwise she would have been awarded the Noble Prize for her tremendous achievements.",
             "motivational-pl": "Około 10 tysięcy Polek umiera rocznie na raka piersi, jajników i szyjki macicy - zadbaj o siebie!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Almost 59,000 American women will die this year from breast, ovarian and cervical cancer – remember to take care of yourself. Schedule your screening examinations today.",
+            "pictureUrl": ""
         },
         {
             "id": 21,
@@ -247,10 +235,10 @@
             "born": 1871,
             "died": 1901,
             "bio-pl": "Brytyjska piłkarka. Nettie założyła British Ladies' Football Club, pierwszy na świecie klub piłkarski dla kobiet, którego była też kapitanką. Kobiety grały w spodniach, co było skandalem obyczajowym i też zostało potępione przez brytyjskich lekarzy jako niebezpieczne dla kobiecego zdrowia.",
-            "bio-eng": "",
+            "bio-eng": "British footballer, manager and coach of the British Ladies' Football Club, the first women football club in the world.",
             "motivational-pl": "Pamiętaj, że dziewczyny też strzelają gole!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Remember that girls also score goals!",
+            "pictureUrl": ""
         },
         {
             "id": 22,
@@ -259,10 +247,10 @@
             "born": 1793,
             "died": 1864,
             "bio-pl": "Księżniczka w kalifacie Sokoto (dzisiejsza Nigeria), poetka, nauczycielka. By umożliwić edukację dziewcząt, Nana powołała kadrę jajis, czyli muzułmańskich nauczycielek, które podróżowały po całym kraju i nauczały w domach uczennic. Jajis istnieją do dziś, a Nana jest uważana za prekursorkę feminizmu w Afryce.",
-            "bio-eng": "",
+            "bio-eng": "Princess, poet, teacher and feminist precursor in Sokoto (today Nigeria). In order to make education more accessible for women, she created a cadre of female travelling teachers who educated girls in the students’ homes",
             "motivational-pl": "Inne dziewczyny nie są Twoimi wrogami - działajmy razem, nigdy przeciwko sobie!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Other women are not your enemies – we stand together, not against each other!",
+            "pictureUrl": ""
         },
         {
             "id": 23,
@@ -271,10 +259,10 @@
             "born": 1928,
             "died": 2014,
             "bio-pl": "Poetka, pisarka, działaczka społeczna, dziennikarka, aktorka, reżyserka, producentka. Swoje dzieciństwo i młodość, a wraz z nimi swoje doświadczenia rasizmu, ubóstwa i przemocy, opisała w serii autobiografii, dzięki którym zyskała rozgłos. Maya otrzymała tytuły honorowe pięćdziesięciu uniwersytetów.",
-            "bio-eng": "",
+            "bio-eng": "Poet, writer, social activist, journalist, actress, director, producer. She received honorary degrees from 50 universities. She is known for her autobiography devoted to her tough childhood and youth.",
             "motivational-pl": "Nie pozwól, by zniszczyło Cię to, jak inni Ciebie traktują - jesteś twarda i dojdziesz tam, gdzie chcesz.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Do not allow for how they treat you to destroy you. You are tough and you’ll get where you want!",
+            "pictureUrl": ""
         },
         {
             "id": 24,
@@ -282,11 +270,11 @@
             "STEM": false,
             "born": 1884,
             "died": 1962,
-            "bio-pl": "Amerykańska działaczka na rzecz praw człowieka, dyplomatka i publicystka, a także pierwsza dama USA. Działała przeciwko dyskryminacji rasowej. Jako przewodnicząca Komisji Praw Człowieka w ONZ, Eleanor współtworzyła Powszechną Deklarację Praw Człowieka. ",
-            "bio-eng": "",
-            "motivational-pl": " Wykorzystaj swoją pozycję i przywileje, by pomóc tym, których głos nie jest zwykle słyszany.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "bio-pl": "Amerykańska działaczka na rzecz praw człowieka, dyplomatka i publicystka, a także pierwsza dama USA. Działała przeciwko dyskryminacji rasowej. Jako przewodnicząca Komisji Praw Człowieka w ONZ, Eleanor współtworzyła Powszechną Deklarację Praw Człowieka.",
+            "bio-eng": "American human rights activist, diplomat and spokesperson, as well as the FLOTUS. She co-created the Universal Declaration of Human Rights.",
+            "motivational-pl": "Wykorzystaj swoją pozycję i przywileje, by pomóc tym, których głos nie jest zwykle słyszany.",
+            "motivational-eng": "Use your position and privileges not to speak the loudest but to help others get their voices heard.",
+            "pictureUrl": ""
         },
         {
             "id": 25,
@@ -295,10 +283,10 @@
             "born": 1157,
             "died": 1247,
             "bio-pl": "Japońska samurajka znana ze swojej odwagi i siły. Tomoe świetnie władała mieczem i łukiem, dzięki czemu niejednokrotnie prowadziła armię do walki.",
-            "bio-eng": "",
+            "bio-eng": "Japanese samurai renowned for her strength and bravery. As an excellent archer and swordsperson, numerous times she led the army in battle.",
             "motivational-pl": "Samurajki, prezydentki, generałki, premierki? Historia zna wiele wspaniałych kobiet.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Samurais and presidents? History knows many spectacular women!",
+            "pictureUrl": ""
         },
         {
             "id": 26,
@@ -307,10 +295,10 @@
             "born": 1910,
             "died": 2008,
             "bio-pl": "Polska działaczka społeczna i charytatywna. W trakcie drugiej wojny światowej uratowała około 2500 żydowskich dzieci przed śmiercią, na przykład wynosząc je w walizkach z getta.",
-            "bio-eng": "",
+            "bio-eng": "Polish nurse, social worker and social activist. She saved approximately 2,500 children from the Holocaust by smuggling them out of the concentration camps in suitcases.",
             "motivational-pl": "Jeśli czujesz, że możesz komuś pomóc - zrób to.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "If you feel that you can help someone – do it.",
+            "pictureUrl": ""
         },
         {
             "id": 27,
@@ -319,10 +307,10 @@
             "born": 1877,
             "died": 1961,
             "bio-pl": "Amerykańska akrobatka, artystka cyrkowa. Maud była pierwszą znaną historii amerykańską tatuażystką - fachu nauczyła również swoją córkę, która w wieku 9 lat już tatuowała.",
-            "bio-eng": "",
+            "bio-eng": "American acrobat and circus artist. The first female tattooist in the recorded history.",
             "motivational-pl": "To Ty decydujesz o tym, jak wyglądasz. I nie daj sobie wmówić, że jest inaczej!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Only you decide about your body and look. And really, it’s no one else’s business.",
+            "pictureUrl": ""
         },
         {
             "id": 28,
@@ -331,10 +319,10 @@
             "born": 1933,
             "died": 2003,
             "bio-pl": "Amerykańska piosenkarka, pianistka, autorka tekstów. Nina była  zaangażowana w ruch praw obywatelskich, który dążył do zniesienia prawa pozwalającego na dyskryminację osób czarnoskórych. Sama, bez względu na to, czy była u początku kariery, czy była już sławna, całe życie doświadczała rasizmu.",
-            "bio-eng": "",
+            "bio-eng": "American singer, pianist, songwriter, involved in Civil Rights Movement. She was called The High Priestess of Soul for her revolutionary music.",
             "motivational-pl": "Nie daj się zaszufladkować. Przecież sama najlepiej wiesz, kim jesteś!",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Do not let others put you in boxes. You yourself know best who you are!",
+            "pictureUrl": ""
         },
         {
             "id": 29,
@@ -343,10 +331,10 @@
             "born": 1899,
             "died": 1994,
             "bio-pl": "Emancypantka, pisarka, tłumaczka. Wspólnie z Tadeuszem Boyem-Żeleńskim otworzyła klinikę, w której edukowali w zakresie anatomii, fizjologii kobiecego ciała, wiedzy o płodności, zdrowiu w ciąży i porodzie.",
-            "bio-eng": "",
+            "bio-eng": "Polish feminist, writer and translator. She co-founded a planned parenthood clinic in Cracow and advocated common sexual education.",
             "motivational-pl": "Dbaj o siebie i inne kobiety - wszystkie jesteśmy silne, tylko czasem potrzebujemy wsparcia.",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "Be there for other women – although we are strong, we all sometimes need a bit of support.",
+            "pictureUrl": ""
         },
         {
             "id": 30,
@@ -355,10 +343,10 @@
             "born": 1933,
             "died": 2004,
             "bio-pl": "Wybitna intelektualistka amerykańska, krytyczka sztuki specjalizująca się w teatrze i fotografii, eseistka i aktywistka na rzecz praw człowieka i praw kobiet. Susan uwielbiała tworzyć różnorakie listy - jej dzienniki są ich pełne. ",
-            "bio-eng": "",
+            "bio-eng": "American writer, essayist, human and women rights activist. She loved creating lists of diverse subjects -- her journals are full of them.",
             "motivational-pl": "W czasach natłoku informacji, FB i Twittera, powtórzmy słowa Susan: “Kochaj słowa. Męcz się nad zdaniami. Skupiaj się na świecie.”",
-            "motivational-eng": "",
-            "pictureUrl": "",
+            "motivational-eng": "In the times of Facebook, Twitter and information overload, Susan says: “Love words. Agonize over sentences. Pay attention to the world.”",
+            "pictureUrl": ""
         },
     ]
 }
