@@ -1,10 +1,13 @@
 {
-    "general data": [
+    "studios data": [
         {
             "trivia": "Tyler Perry Studios is the largest film production studio in the United States, and established Perry as the first African-American to outright own a major film production studio.",
             "site": "former Fort McPherson complex",
             "overall size": "330-acre (130 ha)",
-            "set size": "200,000 square feet (19,000 m2)"
+            "set size": "200,000 square feet (19,000 m2)",
+            "owner": "Tyler Perry",
+            "bio": "Tyler Perry is an American actor, writer, producer, comedian and director. In 2011, Forbes listed him as the highest paid man in entertainment, earning US$130 million between May 2010 and May 2011. Perry created and performs the Madea character, a tough elderly black woman. Perry's films vary in style from orthodox filmmaking techniques to filmed productions of live stage plays.",
+            "image_url": "https://www.gstatic.com/tv/thumb/persons/321401/321401_v9_ba.jpg"
         }
     ],
     "sets": [
