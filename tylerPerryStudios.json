@@ -1,0 +1,76 @@
+{
+    "sound stages": [
+        {
+            "id": 1,
+            "dedicated": "Oprah Winfrey",
+            "bio": "Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. Dubbed the 'Queen of All Media', she was the richest African American of the 20th century and North America's first black multi-billionaire, and she has been ranked the greatest black philanthropist in American history. She is best known for her talk show, The Oprah Winfrey Show, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011. By 2007, she was sometimes ranked as the most influential woman in the world.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/440px-Oprah_in_2014.jpg"
+        },
+        {
+            "id": 2,
+            "dedicated": "John Singleton",
+            "bio": "John Daniel Singleton was an American film director, screenwriter, producer, and actor. He was best known for directing Boyz n the Hood, for which he was nominated for the Academy Award for Best Director, becoming, at age 24, the first African American and youngest person to have ever been nominated for that award.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/John_Singleton_2013_%28cropped%29.jpg"
+        },
+        {
+            "id": 3,
+            "dedicated": "Will Smith",
+            "bio": "Willard 'Will' Carroll Smith Jr., is an American actor and rapper. In April 2007, Newsweek called him 'the most powerful actor in Hollywood'. Smith has been nominated for five Golden Globe Awards and two Academy Awards, and has won four Grammy Awards.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Will_Smith_by_Gage_Skidmore_2.jpg/1024px-Will_Smith_by_Gage_Skidmore_2.jpg"
+        },
+        {
+            "id": 4,
+            "dedicated": "Sir Sidney Poitier",
+            "bio": "Sidney Poitier, KBE is a Bahamian-American actor and film director. He received two nominations for the Academy Award for Best Actor, winning one, the first black actor to win that award. He was also nominated six times for each of the Golden Globe for Best Actor and the British Academy of Film and Television Arts Award (BAFTA) for Best Foreign Actor, winning each once. From 1997 to 2007, he served as the Bahamian Ambassador to Japan.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sidney_Poitier_1968.jpg"
+        },
+        {
+            "id": 5,
+            "dedicated": "Cicely Tyson",
+            "bio": "Cicely L. Tyson is an American actress and former fashion model. In a career spanning more than seven decades, she became known for her portrayal of strong African-American women. Tyson is the recipient of three Primetime Emmy Awards, four Black Reel Awards, one Screen Actor Guild Award, one Tony Award and an honorary Academy Award.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cicely_Tyson.jpg/440px-Cicely_Tyson.jpg"
+        },
+        {
+            "id": 6,
+            "dedicated": "Ruby Dee",
+            "bio": "Ruby Dee was an American actress, poet, playwright, screenwriter, journalist, and civil rights activist. Dee was nominated for the Academy Award for Best Supporting Actress and won the Screen Actors Guild Award for Female Actor in a Supporting Role. Dee was a Grammy, Emmy, Obie and Drama Desk winner. She was also a National Medal of Arts, Kennedy Center Honors and Screen Actors Guild Life Achievement Award recipient.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ruby_Dee_-_1972.jpg"
+        },
+        {
+            "id": 7,
+            "dedicated": "Harry Belafonte",
+            "bio": "Harry Belafonte is an American singer, songwriter, activist, and actor. One of the most successful Jamaican-American pop stars in history, he was dubbed the 'King of Calypso' for popularizing the Caribbean musical style with an international audience in the 1950s.",
+            "picture_url": "https://vignette.wikia.nocookie.net/beetlejuice/images/9/95/Harry_Belafonte.jpg/revision/latest/scale-to-width-down/340?cb=20131024191359"
+        },
+        {
+            "id": 8,
+            "dedicated": "Spike Lee",
+            "bio": "Halle Maria Berry is an American actress. Berry won the Academy Award for Best Actress for her performance in the romantic drama film Monster's Ball, becoming the only woman of African American descent to have won the award. . He has won numerous accolades for his work, including an Academy Award for Best Adapted Screenplay, a Student Academy Award, a BAFTA Award for Best Adapted Screenplay, two Emmy Awards, two Peabody Awards, and the Cannes Grand Prix. He has also received an Academy Honorary Award, an Honorary BAFTA Award, an Honorary César, and the Dorothy and Lillian Gish Prize.",
+            "picture_url": "https://www.gstatic.com/tv/thumb/persons/1001/1001_v9_bb.jpg"
+        },
+        {
+            "id": 9,
+            "dedicated": "Ossie Davis",
+            "bio": "Ossie Davis was an American film, television and Broadway actor, director, poet, playwright, author, and civil rights activist. He was married to Ruby Dee, with whom he frequently performed, until his death in 2005. He and his wife were named to the NAACP Image Awards Hall of Fame; were awarded the National Medal of Arts and were recipients of the Kennedy Center Honors. He was inducted into the American Theater Hall of Fame in 1994.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ossie_Davis.jpg/440px-Ossie_Davis.jpg"
+        },
+        {
+            "id": 10,
+            "dedicated": "Whoopie Goldberg",
+            "bio": "Caryn Elaine Johnson, known professionally as Whoopi Goldberg, is an American actor, comedian, author, and television personality. She has been nominated for 13 Emmy Awards and is one of the few entertainers to have won an Emmy Award, a Grammy Award, an Academy Award, and a Tony Award.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Whoopi_Goldberg_by_John_Mathew_Smith.jpg"
+        },
+        {
+            "id": 11,
+            "dedicated": "Halle Berry",
+            "bio": "Halle Maria Berry is an American actress. Berry won the Academy Award for Best Actress for her performance in the romantic drama film Monster's Ball, becoming the only woman of African American descent to have won the award.",
+            "picture_url": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxODYxNjQwNzE3/halle-berry-9542339-1-402.jpg"
+        },
+        {
+            "id": 12,
+            "dedicated": "Denzel Washington",
+            "bio": "Denzel Hayes Washington Jr. (born December 28, 1954) is an African-American actor, director, and producer. He has received two Golden Globe awards, one Tony Award, and two Academy Awards.",
+            "picture_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Denzel_Washington_cropped.jpg"
+        }
+    ]
+}
