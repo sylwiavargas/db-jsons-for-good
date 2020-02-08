@@ -1,4 +1,44 @@
 {
+    "general data": [
+        {
+            "trivia": "Tyler Perry Studios is the largest film production studio in the United States, and established Perry as the first African-American to outright own a major film production studio.",
+            "site": "former Fort McPherson complex",
+            "overall size": "330-acre (130 ha)",
+            "set size": "200,000 square feet (19,000 m2)"
+        }
+    ],
+    "sets": [
+        {
+            "id": 1,
+            "description": "a replica of a luxury hotel lobby",
+            "picture_url": "https://lkbk-assets-cdn.myfirstly.com/imgs/p6/fn/4A/Fo/p6fn4AFo-kvfEwvQSO.jpg"
+        },
+        {
+            "id": 2,
+            "description": "a White House replica",
+            "picture_url": "https://media.bizj.us/view/img/11466425/int-white-house-1*900.jpg"
+        },
+        {
+            "id": 3,
+            "description": "a 16,000-square-foot mansion",
+            "picture_url": "https://pmcvariety.files.wordpress.com/2015/06/tylerperry_atl_fi.jpg?w=670"
+        },
+        {
+            "id": 4,
+            "description": "a hospital",
+            "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2DKJcjJQlmRfUX4rpatGg9aHMsxjQnFw8eDBRThKpSJYxNy3R"
+        },
+        {
+            "id": 5,
+            "description": "a real 1950s-style diner that was relocated from a town 100 miles (160 km) away",
+            "picture_url": "https://live.staticflickr.com/8467/8105153424_64ba4400d7_b.jpg"
+        },
+        {
+            "id": 6,
+            "description": "Maxineville neighboorhood",
+            "picture_url": "https://q-cf.bstatic.com/images/hotel/max1280x900/168/168629892.jpg"
+        }
+    ],
     "sound stages": [
         {
             "id": 1,
@@ -111,46 +151,6 @@
             "dedicated": "Denzel Washington",
             "bio": "Denzel Hayes Washington Jr. (born December 28, 1954) is an African-American actor, director, and producer. He has received two Golden Globe awards, one Tony Award, and two Academy Awards.",
             "picture_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Denzel_Washington_cropped.jpg"
-        }
-    ],
-    "other buildings": [
-        {
-            "id": 1,
-            "description": "a replica of a luxury hotel lobby",
-            "picture_url": "https://lkbk-assets-cdn.myfirstly.com/imgs/p6/fn/4A/Fo/p6fn4AFo-kvfEwvQSO.jpg"
-        },
-        {
-            "id": 2,
-            "description": "a White House replica",
-            "picture_url": "https://media.bizj.us/view/img/11466425/int-white-house-1*900.jpg"
-        },
-        {
-            "id": 3,
-            "description": "a 16,000-square-foot mansion",
-            "picture_url": "https://pmcvariety.files.wordpress.com/2015/06/tylerperry_atl_fi.jpg?w=670"
-        },
-        {
-            "id": 4,
-            "description": "a hospital",
-            "picture_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2DKJcjJQlmRfUX4rpatGg9aHMsxjQnFw8eDBRThKpSJYxNy3R"
-        },
-        {
-            "id": 5,
-            "description": "a real 1950s-style diner that was relocated from a town 100 miles (160 km) away",
-            "picture_url": "https://live.staticflickr.com/8467/8105153424_64ba4400d7_b.jpg"
-        },
-        {
-            "id": 6,
-            "description": "Maxineville neighboorhood",
-            "picture_url": "https://q-cf.bstatic.com/images/hotel/max1280x900/168/168629892.jpg"
-        }
-    ],
-    "general data": [
-        {
-            "trivia": "Tyler Perry Studios is the largest film production studio in the United States, and established Perry as the first African-American to outright own a major film production studio.",
-            "site": "former Fort McPherson complex",
-            "overall size": "330-acre (130 ha)",
-            "set size": "200,000 square feet (19,000 m2)"
         }
     ]
 }
