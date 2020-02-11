@@ -4,9 +4,10 @@
             "id": 1,
             "title": "The Color Purple",
             "year": 1985,
+            "length": 154,
             "director": "Steven Spielberg",
             "description": "Whoopi Goldberg brings Alice Walker’s Pulitzer Prize-winning feminist novel to life as Celie, a Southern woman who suffered abuse over decades. A project brought to a hesitant Steven Spielberg by producer Quincy Jones, the film marks Spielberg’s first female lead.",
-            "poster_url": "https://images-na.ssl-images-amazon.com/images/I/517NV58X7WL._SY445_.jpg",
+            "poster_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3071/3071213_so.jpg",
             "category": [
                 {
                     "id": 1, 
@@ -16,13 +17,65 @@
                     "id": 2,
                     "name": "historical period drama"
                 },
+                {
+                    "id": 6,
+                    "name": "adaptation"
+                }
             ],
-            "discount": false
+            "discount": false,
+            "femaleDirector": false
+        },
+        {
+            "id": 2,
+            "title": "Frida",
+            "year": 2002,
+            "length": 123,
+            "director": "Julie Taymor",
+            "description": "Her portrait, with that thick unibrow and un-waxed upper lip, has become an iconic symbol of feminism. Julie Taymor’s biopic takes us behind the canvas to reveal the artist, the activist, the revolutionary. And knowing what we do now about lead actress Selma Hayek’s off-screen experience, this film proves an even greater victory.",
+            "poster_url": "https://images-na.ssl-images-amazon.com/images/I/517NV58X7WL._SY445_.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 5,
+                    "name": "melodrama"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
+        },
+        {
+            "id": 2,
+            "title": "Little Women",
+            "year": 1994,
+            "length": 118,
+            "director": "Gillian Armstrong",
+            "description": "Feminism isn’t all “women can do anything men can do”—it’s women can do whatever the hell they want to do. And for the protagonist sisters in Gillian Anderson’s adaptation of Louisa May Alcott’s novel, that means a writer, a musician, a housewife and a free spirit.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/16296/p16296_v_v8_aj.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 6,
+                    "name": "adaptation"
+                },
+                {
+                    "id": 2,
+                    "name": "historical period drama"
+                }
+            ],
+            "discount": true,
+            "femaleDirector": true
         },
         {
             "id": 2,
             "title": "Thelma and Louise",
             "year": 1991,
+            "length": 130,
             "director": "Ridley Scott",
             "description": "Susan Sarandon and Gena Davis lock arms—and fates—in this buddy road trip drama with a feminist legacy that runs deeper than the Grand Canyon. Sure, it’s directed by Ridley Scott, but the screenplay about a pair of outlaws who are anything but passive comes straight from the pen of Callie Khouri.",
             "poster_url": "https://images-na.ssl-images-amazon.com/images/I/517NV58X7WL._SY445_.jpg",
@@ -31,13 +84,19 @@
                     "id": 1, 
                     "name": "drama"
                 },
+                {
+                    "id": 4,
+                    "name": "mystery"
+                }
             ],
-            "discount": false
+            "discount": false,
+            "femaleDirector": false
         },
         {
             "id": 3,
             "title": "Alien",
             "year": 1979,
+            "length": 117,  
             "director": "Ridley Scott",
             "description": "Groundbreaking for 1979 science fiction, Sigourney Weaver’s Ellen Ripley is one of the genre’s most iconic female characters. She’s not a damsel—she’s a badass final girl and the only survivor to defeat the monster that mutilated and destroyed every other member of the Nostromo crew.",
             "poster_url": "https://images-na.ssl-images-amazon.com/images/I/5119C4MWJ0L.jpg",
@@ -46,8 +105,63 @@
                     "id": 3, 
                     "name": "sci-fi"
                 },
+                {
+                    "id": 4,
+                    "name": "mystery"
+                },
+                {
+                    "id": 7,
+                    "name": "fantasy"
+                },
             ],
-            "discount": true
+            "discount": true,
+            "femaleDirector": false
+        },
+        {
+            "id": 2,
+            "title": "Little Women",
+            "year": 2019,
+            "length": 135,
+            "director": "Greta Gerwig",
+            "description": "In the years after the Civil War, Jo March lives in New York and makes her living as a writer, while her sister Amy studies painting in Paris. Amy has a chance encounter with Theodore, a childhood crush who proposed to Jo but was ultimately rejected. Their oldest sibling, Meg, is married to a schoolteacher, while shy sister Beth develops a devastating illness that brings the family back together.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/17008397/p17008397_v_v8_aa.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 6,
+                    "name": "adaptation"
+                },
+                {
+                    "id": 2,
+                    "name": "historical period drama"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
+        },
+        {
+            "id": 2,
+            "title": "Mad Max Fury Road",
+            "year": 2015,
+            "length": 140,
+            "director": "George Miller",
+            "description": "Unearthing feminism in a scorched, hell-on-wheels action flick from road warrior franchise man George Miller isn’t exactly obvious. But though it’s titled after a male character, he is muzzled for much of the film, lending the action to a female imperator and her feminist revolt against the horrors of sexism.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/17008397/p17008397_v_v8_aa.jpg",
+            "category": [
+                {
+                    "id": 3, 
+                    "name": "sci-fi"
+                },
+                {
+                    "id": 7,
+                    "name": "fantasy"
+                },
+            ],
+            "discount": false,
+            "femaleDirector": false
         },
     ]
 }
