@@ -14,3 +14,5 @@ different json files I compiled for students
 - there are a few arrays: trivia, sound stages, locations;
 - locations come with an id, description and an image url;
 - sound stages come with an id, who the stage is dedicated to (their name, bio and pic) and stage size;
+
+### feministStore:
