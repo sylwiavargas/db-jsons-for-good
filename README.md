@@ -27,4 +27,4 @@ different json files I compiled for students
 - sound stages come with an id, who the stage is dedicated to (their name, bio and pic) and stage size;
 
 ### urbanDict: 
-- Ruby and Rails-related version of [urban disctionary](https://www.urbandictionary.com/)
+- Ruby and Rails-related version of [urban dictionary](https://www.urbandictionary.com/)
