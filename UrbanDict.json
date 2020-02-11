@@ -1,0 +1,17 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "content": "",
+            "category": "",
+            "definition": [
+                {
+                    "id": 1, 
+                    "author": "drama",
+                    "body": "",
+                    "likes": 79
+                }
+            ]
+        }
+    ]
+}
