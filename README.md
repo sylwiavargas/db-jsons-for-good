@@ -15,4 +15,9 @@ different json files I compiled for students
 - locations come with an id, description and an image url;
 - sound stages come with an id, who the stage is dedicated to (their name, bio and pic) and stage size;
 
-### feministStore:
+### dvdStore-nested-category:
+- two booleans, three numeric values;
+- a nested array;
+
+### dvdStore-simple:
+- two booleans, three numeric values;
