@@ -47,7 +47,53 @@
             "femaleDirector": true
         },
         {
-            "id": 2,
+            "id": 3,
+            "title": "Queen of Katwe",
+            "year": 2016,
+            "length": 144,
+            "director": "Mira Nair",
+            "description": "Disney has a way of making us feel like pawns in a game of Let’s See How Hard We Can Make Them Cry. But that’s not the case with Mira Nair’s feel-good drama about a Uganda girl’s path to chess champ, adapted from an ESPN sports essay. Moms and dads, you want your daughters to grow up to be chess champions.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/12806084/p12806084_v_v8_ar.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 2,
+                    "name": "historical period drama"
+                },
+                {
+                    "id": 6,
+                    "name": "adaptation"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
+        },
+        {
+            "id": 4,
+            "title": "Persepolis",
+            "year": 2007,
+            "length": 96,
+            "director": "Marjane Satrapi",
+            "description": "There’s a lot at play here: Persepolis is animated like a graphic novel. It’s done in black and white. It’s about a girl who defies Islamic fundamentalists. It’s autobiographical. And it’s in French. The result: a brilliant feminist feat from Marjane Satrapi.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/173490/p173490_v_v8_an.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 8,
+                    "name": "war"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
+        },
+        {
+            "id": 5,
             "title": "Little Women",
             "year": 1994,
             "length": 118,
@@ -72,7 +118,7 @@
             "femaleDirector": true
         },
         {
-            "id": 2,
+            "id": 6,
             "title": "Thelma and Louise",
             "year": 1991,
             "length": 130,
@@ -93,7 +139,7 @@
             "femaleDirector": false
         },
         {
-            "id": 3,
+            "id": 7,
             "title": "Alien",
             "year": 1979,
             "length": 117,  
@@ -118,7 +164,7 @@
             "femaleDirector": false
         },
         {
-            "id": 2,
+            "id": 8,
             "title": "Little Women",
             "year": 2019,
             "length": 135,
@@ -143,7 +189,7 @@
             "femaleDirector": true
         },
         {
-            "id": 2,
+            "id": 9,
             "title": "Mad Max Fury Road",
             "year": 2015,
             "length": 140,
@@ -162,6 +208,82 @@
             ],
             "discount": false,
             "femaleDirector": false
+        },
+        {
+            "id": 10,
+            "title": "Mustang",
+            "year": 2015,
+            "length": 100,
+            "director": "Deniz Gamze Ergüven",
+            "description": "It’s easy to call Deniz Gamze Ergüven’s 2015 Oscar nominee a feminist film, since it’s about five orphan girls who give oppression and the Turkish patriarchy the middle finger. But it’s so much more than that—it’s Ergüven’s personal comment on what it means to be a woman in Turkey.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/11893143/p11893143_v_v8_ab.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
+        },
+        {
+            "id": 11,
+            "title": "Girlhood",
+            "year": 2015,
+            "length": 113,
+            "director": "Céline Sciamma",
+            "description": "Céline Sciamma’s Girlhood, a contemporary narrative with a classic plot that isn’t too distant from anything in the Jane Austen canon, follows a French teenager’s slog through gang life on a quest to self-discovery.",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/11240526/p11240526_v_v8_aa.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
+        },
+        {
+            "id": 12,
+            "title": "Erin Brockovich",
+            "year": 2000,
+            "length": 113,
+            "director": "Steven Soderbergh",
+            "description": "Some will say Steven Soderbergh’s true-life telling of that time a single mother blew the whistle on PG&E; knowingly poisoning local residents objectifies its lead with scanty costumes. We’d say that’s precisely why this film makes our list: because women can wear whatever the hell they want and get sh*t done!",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/24917/p24917_v_v8_aa.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 8, 
+                    "name": "docudrama"
+                }
+            ],
+            "discount": true,
+            "femaleDirector": false
+        },
+        {
+            "id": 13,
+            "title": "The Babadook",
+            "year": 2014,
+            "length": 95,
+            "director": "Jennifer Kent",
+            "description": "Some will say Steven Soderbergh’s true-life telling of that time a single mother blew the whistle on PG&E; knowingly poisoning local residents objectifies its lead with scanty costumes. We’d say that’s precisely why this film makes our list: because women can wear whatever the hell they want and get stuff done!",
+            "poster_url": "https://www.gstatic.com/tv/thumb/v22vodart/10644326/p10644326_v_v8_ah.jpg",
+            "category": [
+                {
+                    "id": 1, 
+                    "name": "drama"
+                },
+                {
+                    "id": 8, 
+                    "name": "docudrama"
+                }
+            ],
+            "discount": false,
+            "femaleDirector": true
         },
     ]
 }
