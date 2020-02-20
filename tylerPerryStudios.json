@@ -3,11 +3,13 @@
         {
             "trivia": "Tyler Perry Studios is the largest film production studio in the United States, and established Perry as the first African-American to outright own a major film production studio.",
             "site": "former Fort McPherson complex",
-            "overall size": "330-acre (130 ha)",
-            "set size": "200,000 square feet (19,000 m2)",
-            "owner": "Tyler Perry",
-            "bio": "Tyler Perry is an American actor, writer, producer, comedian and director. In 2011, Forbes listed him as the highest paid man in entertainment, earning US$130 million between May 2010 and May 2011. Perry created and performs the Madea character, a tough elderly black woman. Perry's films vary in style from orthodox filmmaking techniques to filmed productions of live stage plays.",
-            "image_url": "https://www.gstatic.com/tv/thumb/persons/321401/321401_v9_ba.jpg"
+            "overall_size": 130,
+            "set_size": 200000,
+            "owner": {
+                "name": "Tyler Perry",
+                "bio": "Tyler Perry is an American actor, writer, producer, comedian and director. In 2011, Forbes listed him as the highest paid man in entertainment, earning US$130 million between May 2010 and May 2011. Perry created and performs the Madea character, a tough elderly black woman. Perry's films vary in style from orthodox filmmaking techniques to filmed productions of live stage plays.",
+                "image_url": "https://www.gstatic.com/tv/thumb/persons/321401/321401_v9_ba.jpg"
+            }
         }
     ],
     "sets": [
@@ -42,11 +44,11 @@
             "picture_url": "https://q-cf.bstatic.com/images/hotel/max1280x900/168/168629892.jpg"
         }
     ],
-    "sound stages": [
+    "sound_stages": [
         {
             "id": 1,
-            "stage number": 1,
-            "stage size in sq feet": 38500,
+            "stage_number": 1,
+            "size": 38500,
             "dedicated": "Oprah Winfrey",
             "bio": "Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. Dubbed the 'Queen of All Media', she was the richest African American of the 20th century and North America's first black multi-billionaire, and she has been ranked the greatest black philanthropist in American history. She is best known for her talk show, The Oprah Winfrey Show, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011. By 2007, she was sometimes ranked as the most influential woman in the world.",
             "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/440px-Oprah_in_2014.jpg"
