@@ -1,5 +1,5 @@
 # db-jsons-for-good
-different json files I compiled for students
+data files celebrating diversity and lesser-known histories for students
 
 ## 20BadassWomen: 
 A list of 30 women who were just amazing. The bios and quotes come in two languages and were taken from an open source coloring book for teenagers that I co-authored.
@@ -110,5 +110,5 @@ List of attributes:
 - there are a few arrays: trivia, sound stages, locations;
 - locations come with an id, description and an image url;
 
-## urbanDict: 
+### urbanDict: 
 - Ruby and Rails-related version of [urban dictionary](https://www.urbandictionary.com/)
