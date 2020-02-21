@@ -1,7 +1,7 @@
 # db-jsons-for-good
 different json files I compiled for students
 
-### 20BadassWomen: 
+## 20BadassWomen: 
 A list of 30 women who were just amazing. The bios and quotes come in two languages and were taken from an open source coloring book for teenagers that I co-authored.
 List of attributes: 
 - id (int); 
@@ -20,10 +20,10 @@ List of attributes:
 - Gloria Steinem's year of death is null;
 - Hatshepsut's years are both negative because BC;
 
-### appNamesAppUsers: 
+## appNamesAppUsers: 
 NOT A JSON: 2 arrays of nouns for a mad lib generator of app ideas;
 
-### climateTeenageActivists: 
+## climateTeenageActivists: 
 A list of 13 teenage climate activists from a few countries. 
 List of attributes: 
 - id (int); 
@@ -38,7 +38,7 @@ List of attributes:
 **Gotchas**:
 - not all activists have a twitter handle;
 
-### dvdStore-nested-category:
+## dvdStore-nested-category:
 A list of 13 DVDs featuring strong female characters.
 List of attributes: 
 - id (int); 
@@ -59,7 +59,7 @@ List of attributes:
 **Gotchas**:
 - a nested array;
 
-### dvdStore-simple:
+## dvdStore-simple:
 A list of 13 DVDs featuring strong female characters.
 List of attributes: 
 - id (int); 
@@ -78,7 +78,7 @@ List of attributes:
 **Gotchas**:
 - none
 
-### tylerPerryStudios:
+## tylerPerryStudios:
 Tyler Perry is an American director, screenwriter and producer.
 He recently opened Tyler Perry Studios, which are the biggest studios in the USA.
 Appart from amazing locations, the studios feature 12 sound stages dedicated to different African-American activists, filmmakers and celebrities.
@@ -110,5 +110,5 @@ List of attributes:
 - there are a few arrays: trivia, sound stages, locations;
 - locations come with an id, description and an image url;
 
-### urbanDict: 
+## urbanDict: 
 - Ruby and Rails-related version of [urban dictionary](https://www.urbandictionary.com/)
