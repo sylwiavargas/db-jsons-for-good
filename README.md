@@ -2,7 +2,7 @@
 data files celebrating diversity and lesser-known histories for students
 
 ## 20BadassWomen: 
-A list of 30 women who were just amazing. The bios and quotes come in two languages and were taken from an open source coloring book for teenagers that I co-authored.
+A list of 30 women who were amazing. The bios and quotes come in two languages and were taken from an open source coloring book for teenagers that I co-authored.
 List of attributes: 
 - id (int); 
 - name (str); 
