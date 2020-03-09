@@ -38,6 +38,9 @@ List of attributes:
 **Gotchas**:
 - not all activists have a twitter handle;
 
+## countriesHumanRights
+A list of all countries with data on human rights.
+
 ## dvdStore-nested-category:
 A list of 13 DVDs featuring strong female characters.
 List of attributes: 
