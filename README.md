@@ -8,11 +8,11 @@ List of attributes:
 - name (str); 
 - stem (bool) - determines if a person was stem-related;
 - born (int); 
-- died(int); 
+- died (int); 
 - bio-pl (str); 
-- bio-eng(str); 
-- motivational-pl(str); 
-- motivational-eng(str);
+- bio-eng (str); 
+- motivational-pl (str); 
+- motivational-eng (str);
 - pictureUrl (str);
 
 
@@ -30,7 +30,7 @@ List of attributes:
 - name (str); 
 - fromUSA (bool);
 - born (int); 
-- bio(str); 
+- bio (str); 
 - quote (str); 
 - twitter (str)
 
@@ -54,7 +54,7 @@ List of attributes:
 - poster_url (str);
 - category (arr):
     - id (int); 
-    - name(str);
+    - name (str);
 - discount (bool);
 - femaleDirector (bool)
 
@@ -92,7 +92,7 @@ List of attributes:
     * overall_size (int) -- in ha;
     * set_size (in) -- in sq feet,
     * owner (object):
-        * name(str);
+        * name (str);
         * bio (str);
         * image
     * sets (array with objects):
@@ -101,7 +101,7 @@ List of attributes:
         * picture_url (str)
     * sound_stages:
         * id (int); 
-        * stage_number(int);
+        * stage_number (int);
     * size (int) -- in sq feet;
     * dedicated (str);
     * bio (str);
