@@ -23,18 +23,6 @@ List of attributes:
 ## appNamesAppUsers: 
 NOT A JSON: 2 arrays of nouns for a mad lib generator of app ideas;
 
-## fantastic_folks:
-A list of 11 black folks. Compiled by [Annie Souza](https://github.com/luanesouza).
-List of attributes: 
-- id (int),
-- name (str),
-- bio (str),
-- img_url (str),
-- dob (str),
-
-**Gotchas**:
-- dob is written in inconsistent formats
-
 
 ## climateTeenageActivists: 
 A list of 13 teenage climate activists from a few countries. 
@@ -93,6 +81,18 @@ List of attributes:
 
 **Gotchas**:
 - none
+
+## fantastic_folks:
+A list of 11 black folks who changed the world. Compiled by [Annie Souza](https://github.com/luanesouza).
+List of attributes: 
+- id (int),
+- name (str),
+- bio (str),
+- img_url (str),
+- dob (str),
+
+**Gotchas**:
+- dob is written in inconsistent formats
 
 ## tylerPerryStudios:
 Tyler Perry is an American director, screenwriter and producer.
