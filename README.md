@@ -23,17 +23,17 @@ List of attributes:
 ## appNamesAppUsers: 
 NOT A JSON: 2 arrays of nouns for a mad lib generator of app ideas;
 
-## black_history_folks:
+## fantastic_folks:
 A list of 11 black folks. Compiled by [Annie Souza](https://github.com/luanesouza).
 List of attributes: 
-- name,
-- bio,
-- img_url,
-- dob,
+- id (int),
+- name (str),
+- bio (str),
+- img_url (str),
+- dob (str),
 
 **Gotchas**:
-- dob is written in different formats,
-- no ids
+- dob is written in inconsistent formats
 
 
 ## climateTeenageActivists: 
