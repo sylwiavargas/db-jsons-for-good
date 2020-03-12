@@ -23,6 +23,19 @@ List of attributes:
 ## appNamesAppUsers: 
 NOT A JSON: 2 arrays of nouns for a mad lib generator of app ideas;
 
+## black_history_folks:
+A list of 11 black folks. Compiled by [Annie Souza](https://github.com/luanesouza).
+List of attributes: 
+- name,
+- bio,
+- img_url,
+- dob,
+
+**Gotchas**:
+- dob is written in different formats,
+- no ids
+
+
 ## climateTeenageActivists: 
 A list of 13 teenage climate activists from a few countries. 
 List of attributes: 
