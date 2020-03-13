@@ -127,4 +127,4 @@ List of attributes:
 - locations come with an id, description and an image url;
 
 ### urbanDict: 
-- Ruby and Rails-related version of [urban dictionary](https://www.urbandictionary.com/)
+- Ruby and Rails-related version of [urban dictionary](https://www.urbandictionary.com/);
