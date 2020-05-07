@@ -39,7 +39,7 @@ List of attributes:
 **Gotchas**:
 - not all activists have a twitter handle;
 
-## countriesHumanRights
+## countries
 A list of all countries with data on languages, population, borders, currencies, flag, etc.
 
 ## dvdStore-nested-category:
