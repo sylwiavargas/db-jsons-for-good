@@ -115,10 +115,10 @@ List of attributes:
     * sound_stages:
         * id (int); 
         * stage_number (int);
-    * size (int) -- in sq feet;
-    * dedicated (str);
-    * bio (str);
-    * picture_url (str);
+        * size (int) -- in sq feet;
+        * dedicated (str);
+        * bio (str);
+        * picture_url (str);
 
 **Gotchas**:
 - "studios data" is written with a space;
